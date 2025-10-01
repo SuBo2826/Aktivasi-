@@ -14,11 +14,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "8b61de906d65364f"
+        "device_id": "8b61de906d65364f",
         "username": "user3",
-        "password": "SuBo123",
+        "password": "pass456",
         "expirydate": "15-06-2045",
         "Allowoffline": false
     }
-    
+      
 ]
