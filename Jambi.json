@@ -33,5 +33,12 @@
         "password": "subo12344",
         "expirydate": "15-06-2045",
         "Allowoffline": false
+    },
+      {
+        "device_id": "ecaf4bfbc43726e7",
+        "username": "user6",
+        "password": "subo12345",
+        "expirydate": "15-06-2045",
+        "Allowoffline": false
     }
 ]
